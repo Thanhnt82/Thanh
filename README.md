@@ -1,2 +1,0 @@
-# Thanh
-Created with CodeSandbox
